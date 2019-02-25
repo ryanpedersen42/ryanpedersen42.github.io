@@ -320,7 +320,7 @@ a {
 .skill h3 {
   font-size: 18px;
   text-align: center;
-  /* border-style: solid; */
+  border-style: solid;
   padding: 5px;
   margin: 10px; }
 
