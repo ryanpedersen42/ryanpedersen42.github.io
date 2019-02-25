@@ -475,7 +475,10 @@ a {
   padding: 16px 32px; }
 
 .single-portfolio {
-  border-radius: 5px; }
+  border-radius: 5px;
+  column-span: 2;
+  column-width: 100px;
+ }
   .single-portfolio:hover .thumb .overlay-bg {
     opacity: .85; }
 
