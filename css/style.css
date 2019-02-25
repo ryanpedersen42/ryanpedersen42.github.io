@@ -139,6 +139,11 @@ a {
 
   .img-fluid {
     max-width: 100%;
+    height: 100px;
+  }
+
+  .img-alt {
+    max-width: 100%;
     height: auto;
   }
 
@@ -475,10 +480,7 @@ a {
   padding: 16px 32px; }
 
 .single-portfolio {
-  border-radius: 5px;
-  column-span: 2;
-  column-width: 100px;
- }
+  border-radius: 5px; }
   .single-portfolio:hover .thumb .overlay-bg {
     opacity: .85; }
 
